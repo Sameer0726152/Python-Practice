@@ -1,6 +1,6 @@
 # 🐍 Python Practice
 
-> Practice code from the **Agentic AI Python Course** on Udemy by [Hitesh Choudhary](https://www.udemy.com/user/hitesh-choudhary/)
+> Practice code from the **Agentic AI Python Course** on Udemy by Hitesh Choudhary.
 
 ---
 
