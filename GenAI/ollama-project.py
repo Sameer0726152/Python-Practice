@@ -15,4 +15,4 @@ def chat(
     response = client.chat(model = "qwen2.5-coder:3b", messages = [
         {"role" : "user", "content" : message}
     ])
-    return {"resonse" : response.message.content}
+    return {"response" : response.message.content}
